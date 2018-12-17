@@ -1,0 +1,6 @@
+Packages used:
+Pandas
+Scikit-learn
+Keras
+textblob
+nltk
